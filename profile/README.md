@@ -1,6 +1,6 @@
 <img src="/profile/images/standard.gif" align="center" alt="Computador iuriCode">
 
-## Bem vindo a Seul Cidade rp 🚀
+## Bem vindo a Seul City RP 🚀
 
 <br>
 
