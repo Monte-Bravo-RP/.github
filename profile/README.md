@@ -1,6 +1,6 @@
 <img src="/profile/images/standard.gif" align="center" alt="Computador iuriCode">
 
-## Bem vindo a Seoul City RP 🚀
+## Bem vindo a Monte Bravo RP 🚀
 
 <br>
 
