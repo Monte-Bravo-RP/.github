@@ -1,4 +1,4 @@
-<img src="/profile/images/standard.gif" align="center" alt="banner da cidade">
+<img src="/profile/images/banner.gif" align="center" alt="banner da cidade">
 
 ## Bem vindo a Monte Bravo RP 🗻🗻🗻🤬
 (Organização da cidade Monte Bravo)
@@ -8,5 +8,5 @@ A cidade onde a bravura e a aventura se encontram. A coragem é o nosso lema, a 
 
 <br>
 
-<img src="/images/logo.png"  align="center" alt="Logo da cidade">
+<img src="/profile/images/logo.PNG"  align="center" alt="Logo da cidade">
 
