@@ -1,4 +1,4 @@
-<img src="/profile/images/standard.gif" align="center" alt="banner da cidade">
+<img src="/profile/images/banner.gif" align="center" alt="banner da cidade">
 
 ## Bem vindo a Monte Bravo RP 🗻🗻🗻🤬
 (Organização da cidade Monte Bravo)
