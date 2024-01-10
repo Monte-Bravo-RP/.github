@@ -8,5 +8,5 @@ A cidade onde a bravura e a aventura se encontram. A coragem é o nosso lema, a 
 
 <br>
 
-<img src="/images/logo.png"  align="center" alt="Logo da cidade">
+<img src="/profile/images/logo.PNG"  align="center" alt="Logo da cidade">
 
